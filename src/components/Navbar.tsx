@@ -25,7 +25,7 @@ export function FloatingDockDemo() {
     {
       title: "Showcase",
       icon: <IconLayersLinked className="h-full w-full text-gray-300" />,
-      href: "#",
+      href: "/showcase",
     },
     {
       title: "Profile Ocatry",

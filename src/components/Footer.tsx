@@ -46,7 +46,7 @@ const Footer = () => {
       className="
         relative w-full              
         text-slate-400 
-        bg-gradient-to-b from-slate-950 to-slate-950
+        bg-gradient-to-b from-slate-900 to-slate-900
         border-slate-700
         py-14 pb-32
         px-6 sm:px-8 lg:px-10

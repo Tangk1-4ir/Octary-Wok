@@ -11,13 +11,13 @@ export function SoftRoundedButton({
 }: React.ButtonHTMLAttributes<HTMLButtonElement>) {
   return (
     <motion.div
-      initial={{ opacity: 0, y: 80 }}    // start hidden + below
-      whileInView={{ opacity: 1, y: 0 }} // animate when visible
+      initial={{ opacity: 0 }}        // hanya fade-in
+      whileInView={{ opacity: 1 }}    // muncul tanpa pergeseran
       transition={{
         duration: 0.8,
         ease: "easeInOut",
       }}
-      viewport={{ amount: 0.2 }} // ✅ NO "once", so animation plays AGAIN
+      viewport={{ amount: 0.2 }}
     >
       <button
         className={cn(

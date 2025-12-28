@@ -41,7 +41,7 @@ const Features = () => {
   return (
     <section
       id="features"
-      className="min-h-screen flex flex-col items-center justify-center py-16 px-4 sm:px-6 lg:px-8 bg-slate-950 relative"
+      className="min-h-screen flex flex-col items-center justify-center py-16 px-4 sm:px-6 lg:px-8 bg-slate-900 relative"
     >
       <div className="text-center mb-10 max-w-3xl mx-auto">
         <h2 className="text-3xl sm:text-4xl font-bold text-slate-200 mb-4">Kenapa Harus Pilih Kami?</h2>

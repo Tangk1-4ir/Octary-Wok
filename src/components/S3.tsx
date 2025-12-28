@@ -28,7 +28,7 @@ const testimonials = [
 
 export default function S3() {
     return (
-        <section className="relative z-10 py-20 bg-gradient-to-b from-slate-950 via-slate-900 to-slate-950">
+        <section className="relative z-10 py-20 bg-gradient-to-b from-slate-900 via-slate-950 to-slate-900">
             <div className="h-[40rem] flex flex-col items-center justify-center overflow-hidden">
                 <InfiniteMovingCards
                     items={testimonials}

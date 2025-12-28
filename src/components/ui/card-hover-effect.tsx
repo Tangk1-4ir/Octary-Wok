@@ -23,7 +23,7 @@ export const HoverEffect = ({
   return (
     <div
       className={cn(
-        "w-full flex justify-center bg-slate-950",   // ✅ wrapper penuh biar ga hitam pinggir
+        "w-full flex justify-center bg-slate-900",   // ✅ wrapper penuh biar ga hitam pinggir
         className
       )}
     >
