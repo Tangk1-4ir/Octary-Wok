@@ -54,18 +54,18 @@ export default function ShowCase() {
                           translateZ="50"
                           className="text-xl font-bold text-white dark:text-white"
                           >
-                              Clarity Base
+                              Bravo Class
                       </CardItem>
                       <CardItem
                           as="p"
                           translateZ="60"
                           className="text-white text-sm max-w-sm mt-2 dark:text-neutral-300"
                           >
-                          Kalian bisa melihat dan meng-upload projek website yang telah kalian buat disini!
+                          Kalian bisa menggunakan website ini untuk alat bantu catatan kelas.
                       </CardItem>
                       <CardItem translateZ="100" className="w-full mt-4">
                           <img
-                              src="/clarity.png"
+                              src="/sekre.png"
                               height="1000"
                               width="1000"
                               className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
@@ -76,7 +76,7 @@ export default function ShowCase() {
                           <CardItem
                               translateZ={20}
                               as="a"
-                              href="https://www.claritybase.icu/"
+                              href="#"
                               target="__blank"
                               className="px-4 py-2 rounded-xl text-right bg-black dark:bg-white dark:text-black text-white text-xs font-bold"
                           >
@@ -92,18 +92,18 @@ export default function ShowCase() {
                           translateZ="50"
                           className="text-xl font-bold text-white dark:text-white"
                           >
-                              Clarity Base
+                              Kaskuy
                       </CardItem>
                       <CardItem
                           as="p"
                           translateZ="60"
                           className="text-white text-sm max-w-sm mt-2 dark:text-neutral-300"
                           >
-                          Kalian bisa melihat dan meng-upload projek website yang telah kalian buat disini!
+                          Kalian bisa meng-organisir kas kelas dengan mudah disini!
                       </CardItem>
                       <CardItem translateZ="100" className="w-full mt-4">
                           <img
-                              src="/clarity.png"
+                              src="/badut.jpg"
                               height="1000"
                               width="1000"
                               className="h-60 w-full object-cover rounded-xl group-hover/card:shadow-xl"
